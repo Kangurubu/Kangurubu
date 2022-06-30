@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Batuhan.</h1>
+<h1 align="center">Hello there 👋, I'm Batuhan.</h1>
 <h3 align="center">Computer Engineering student at METU</h3>
 
+- 🌱 I’m currently learning **Python and C.**
+
 - 📫 How to reach me **batuhanteberoglu@gmail.com**
+
+- ⚡ Fun fact **I regularly play table tennis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
