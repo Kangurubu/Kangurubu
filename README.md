@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Batuhan.</h1>
 <h3 align="center">Computer Engineering student at METU</h3>
 
-- 🌱 I’m currently learning **Haskell**
-
-- 📫 How to reach me **teberoglu.batuhan@metu.edu.tr**
+- 📫 How to reach me **batuhanteberoglu@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
