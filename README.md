@@ -1,7 +1,7 @@
-<h1 align="center">Hello there 👋, I'm Batuhan.</h1>
-<h3 align="center">Computer Engineering student at METU</h3>
+<h1 align="center">Welcome</h1>
+<h3 align="center">Junior Computer Engineering student at METU</h3>
 
-- 📫 How to reach me **batuhanteberoglu@gmail.com**
+- 📫 You can reach me by sending me an email. **batuhanteberoglu@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
