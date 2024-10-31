@@ -1,5 +1,4 @@
 <h1 align="center">Welcome</h1>
-<h3 align="center">Senior Computer Engineering student at METU</h3>
 
 - 📫 You can reach me by sending me an email. **batuhanteberoglu@gmail.com**
 
