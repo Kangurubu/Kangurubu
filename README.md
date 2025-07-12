@@ -1,4 +1,4 @@
-Software Engineer - "Problem Solver"  
+Software Engineer
 METU Computer Engineering – 2025
 <h3 align="left">Connect with me:</h3>
 <p align="left">
